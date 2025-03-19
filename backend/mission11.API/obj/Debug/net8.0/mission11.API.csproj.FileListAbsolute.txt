@@ -65,3 +65,4 @@
 /Users/lizzysimmons/Desktop/mission11/backend/mission11.API/obj/Debug/net8.0/mission11.API.pdb
 /Users/lizzysimmons/Desktop/mission11/backend/mission11.API/obj/Debug/net8.0/mission11.API.genruntimeconfig.cache
 /Users/lizzysimmons/Desktop/mission11/backend/mission11.API/obj/Debug/net8.0/ref/mission11.API.dll
+/Users/lizzysimmons/Desktop/mission11/backend/mission11.API/obj/Debug/net8.0/mission11.API.sourcelink.json
